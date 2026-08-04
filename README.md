@@ -7,7 +7,7 @@
 <br/>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinmaurya01" alt="sachinmaurya01" /></a> </p> -->
 
-- 🔭 I’m currently working on **NestJs and Python Projects**
+- 🔭 I’m currently working on **Python and Golang Projects**
 
 - 🌱 I’m currently learning **System Design and DevOps**
 
